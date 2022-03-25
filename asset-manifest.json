@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/caw-studios-blog-app-assignment-1/static/css/main.81d5543d.css",
+    "main.js": "/caw-studios-blog-app-assignment-1/static/js/main.c6a09569.js",
+    "index.html": "/caw-studios-blog-app-assignment-1/index.html",
+    "main.81d5543d.css.map": "/caw-studios-blog-app-assignment-1/static/css/main.81d5543d.css.map",
+    "main.c6a09569.js.map": "/caw-studios-blog-app-assignment-1/static/js/main.c6a09569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81d5543d.css",
+    "static/js/main.c6a09569.js"
+  ]
+}
