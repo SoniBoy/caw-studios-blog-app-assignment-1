@@ -1,9 +1,10 @@
 import { postRoutes } from "../Posts";
+import Home from "../Home/Home";
 
 const config = [
   {
     path: "/",
-    element: <></>,
+    element: <Home />,
   },
   ...postRoutes,
 ];
